@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fawei&#39;s Blog</title>
+    <link>https://faweizhao26.github.io/</link>
+    <description>Recent content on Fawei&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 24 Jul 2022 15:01:29 +0800</lastBuildDate><atom:link href="https://faweizhao26.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>利用 GitHub 和 Hugo 免费搭建博客平台</title>
+      <link>https://faweizhao26.github.io/posts/others/how-to-build-a-blog-website/</link>
+      <pubDate>Sun, 24 Jul 2022 15:01:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/posts/others/how-to-build-a-blog-website/</guid>
+      <description>本篇文章将以 Mac 为例，教你如何利用 GitHub 和 Hugo 来免费搭建一个用于写博客的平台。不过本文只是初级教程。 GitHub 和 Hugo 简介 GitHub 简介 GitHub 是一个面向开源及私有软件项目的</description>
+    </item>
+    
+    <item>
+      <title>做社区运营需要具备哪些能力</title>
+      <link>https://faweizhao26.github.io/posts/community/what-abilities-you-need-to-have-if-you-are-community-manager/</link>
+      <pubDate>Mon, 11 Jul 2022 18:55:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/posts/community/what-abilities-you-need-to-have-if-you-are-community-manager/</guid>
+      <description>社区运营这个岗位对很多人来说，还都比较陌生。其实扩大一下范围，运营这个岗位本身就比较年轻。很多人都不清楚运营到底是做什么的，有哪些工作职责，</description>
+    </item>
+    
+    <item>
+      <title>以线下 Meetup 为例，简单聊一聊技术社区的活动组织</title>
+      <link>https://faweizhao26.github.io/posts/community/how-to-organize-a-meetup/</link>
+      <pubDate>Mon, 20 Jun 2022 19:05:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/posts/community/how-to-organize-a-meetup/</guid>
+      <description>本篇文章就以开源社区的线下 Meetup 为例，简单讲一讲如何组织一场社区的活动。</description>
+    </item>
+    
+    <item>
+      <title>我设想的读书方法</title>
+      <link>https://faweizhao26.github.io/posts/read/how-to-read-one-book/</link>
+      <pubDate>Sat, 18 Jun 2022 18:23:31 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/posts/read/how-to-read-one-book/</guid>
+      <description>在我的脑海里一直有一些关于读书的方法，即便我没有按照这些方法来读书，但我还是想将其梳理成文，或许对其他人会有帮助。 读一本书之前，你会做哪些准</description>
+    </item>
+    
+    <item>
+      <title>做开源社区运营的一年半</title>
+      <link>https://faweizhao26.github.io/posts/community/open-source-community-manage/</link>
+      <pubDate>Sun, 05 Jun 2022 08:29:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/posts/community/open-source-community-manage/</guid>
+      <description>本篇文章我就以 KubeSphere 社区的运营为基础，讲讲我目前学到的开源社区运营经验以及这个工作带给我的惊喜。</description>
+    </item>
+    
+    <item>
+      <title>我做社区运营这几年</title>
+      <link>https://faweizhao26.github.io/posts/community/about-community-manage/</link>
+      <pubDate>Tue, 24 May 2022 22:29:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/posts/community/about-community-manage/</guid>
+      <description>本文将从什么是社区、怎么运营社区、以及我的收获等几方面来简单总结。</description>
+    </item>
+    
+    <item>
+      <title> About Me </title>
+      <link>https://faweizhao26.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://faweizhao26.github.io/about/</guid>
+      <description>Name: Fawei Zhao
+Company：QingCloud
+Organization：KubeSphere
+GitHub：https://github.com/faweizhao26
+Jobs：KubeSphere Community Manager</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
