@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>📕 读书笔记 on Fawei&#39;s Blog</title>
+    <link>https://faweizhao26.github.io/posts/read/</link>
+    <description>Recent content in 📕 读书笔记 on Fawei&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 30 Dec 2022 13:14:52 +0800</lastBuildDate><atom:link href="https://faweizhao26.github.io/posts/read/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 年我读了这些书</title>
+      <link>https://faweizhao26.github.io/posts/read/2022-book-list/</link>
+      <pubDate>Fri, 30 Dec 2022 13:14:52 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/posts/read/2022-book-list/</guid>
+      <description>相比去年，今年在读书的数量和类型两方面都有所突破。大致有 19 本（可能会有遗漏），涉及科幻、历史、推理、科普、科技科普（开源）、文学等多个方向。</description>
+    </item>
+    
+    <item>
+      <title>我设想的读书方法</title>
+      <link>https://faweizhao26.github.io/posts/read/how-to-read-one-book/</link>
+      <pubDate>Sat, 18 Jun 2022 18:23:31 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/posts/read/how-to-read-one-book/</guid>
+      <description>在我的脑海里一直有一些关于读书的方法，即便我没有按照这些方法来读书，但我还是想将其梳理成文，或许对其他人会有帮助。 读一本书之前，你会做哪些准</description>
+    </item>
+    
+  </channel>
+</rss>

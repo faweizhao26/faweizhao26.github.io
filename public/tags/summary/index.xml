@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>summary on Fawei&#39;s Blog</title>
+    <link>https://faweizhao26.github.io/tags/summary/</link>
+    <description>Recent content in summary on Fawei&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 01 Jan 2023 11:27:29 +0800</lastBuildDate><atom:link href="https://faweizhao26.github.io/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的 2022 总结</title>
+      <link>https://faweizhao26.github.io/posts/others/2022-summary/</link>
+      <pubDate>Sun, 01 Jan 2023 11:27:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/posts/others/2022-summary/</guid>
+      <description>每次到了年末，我都会感叹这一年过的好快好快，今年也不例外。但我也一直认为，只要今年比去年有进步，那么这一年就不是那么的失败。这应该是我第三年</description>
+    </item>
+    
+  </channel>
+</rss>

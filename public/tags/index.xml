@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>标签 on Fawei&#39;s Blog</title>
+    <link>https://faweizhao26.github.io/tags/</link>
+    <description>Recent content in 标签 on Fawei&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 07 Apr 2023 20:26:26 +0800</lastBuildDate><atom:link href="https://faweizhao26.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>community</title>
+      <link>https://faweizhao26.github.io/tags/community/</link>
+      <pubDate>Fri, 07 Apr 2023 20:26:26 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>summary</title>
+      <link>https://faweizhao26.github.io/tags/summary/</link>
+      <pubDate>Sun, 01 Jan 2023 11:27:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/tags/summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source</title>
+      <link>https://faweizhao26.github.io/tags/open-source/</link>
+      <pubDate>Fri, 30 Dec 2022 13:14:52 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>read</title>
+      <link>https://faweizhao26.github.io/tags/read/</link>
+      <pubDate>Fri, 30 Dec 2022 13:14:52 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/tags/read/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>communication</title>
+      <link>https://faweizhao26.github.io/tags/communication/</link>
+      <pubDate>Wed, 24 Aug 2022 15:25:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://faweizhao26.github.io/tags/github/</link>
+      <pubDate>Sun, 24 Jul 2022 15:01:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://faweizhao26.github.io/tags/hugo/</link>
+      <pubDate>Sun, 24 Jul 2022 15:01:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KubeSphere</title>
+      <link>https://faweizhao26.github.io/tags/kubesphere/</link>
+      <pubDate>Mon, 20 Jun 2022 19:05:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/tags/kubesphere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meetup</title>
+      <link>https://faweizhao26.github.io/tags/meetup/</link>
+      <pubDate>Mon, 20 Jun 2022 19:05:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

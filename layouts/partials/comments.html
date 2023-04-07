@@ -1,0 +1,14 @@
+<script src="https://cdn.jsdelivr.net/npm/@waline/client"></script>
+<div id="waline"></div>
+<script>
+  new Waline({
+    el: '#waline',
+    serverURL: 'https://waline-qrdu70ok9-faweizhao26.vercel.app/',
+    copyright: true,
+    login: 'enable',
+    placeholder: '欢迎评论',
+    dark: '.dark',
+	requiredMeta: ['nick', 'mail'],
+  });
+</script>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>🏖 其他 on Fawei&#39;s Blog</title>
+    <link>https://faweizhao26.github.io/posts/others/</link>
+    <description>Recent content in 🏖 其他 on Fawei&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 01 Jan 2023 11:27:29 +0800</lastBuildDate><atom:link href="https://faweizhao26.github.io/posts/others/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的 2022 总结</title>
+      <link>https://faweizhao26.github.io/posts/others/2022-summary/</link>
+      <pubDate>Sun, 01 Jan 2023 11:27:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/posts/others/2022-summary/</guid>
+      <description>每次到了年末，我都会感叹这一年过的好快好快，今年也不例外。但我也一直认为，只要今年比去年有进步，那么这一年就不是那么的失败。这应该是我第三年</description>
+    </item>
+    
+    <item>
+      <title>沟通中的 3 个误区</title>
+      <link>https://faweizhao26.github.io/posts/others/3-misunderstandings-in-communication/</link>
+      <pubDate>Wed, 24 Aug 2022 15:25:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/posts/others/3-misunderstandings-in-communication/</guid>
+      <description>不管是在工作中，还是在生活中，沟通都是不可或缺的。 数字时代，得益于网络和沟通工具，相较于电话时代，我们的沟通效率又上了个台阶。但是，即便如此</description>
+    </item>
+    
+    <item>
+      <title>利用 GitHub 和 Hugo 免费搭建博客平台</title>
+      <link>https://faweizhao26.github.io/posts/others/how-to-build-a-blog-website/</link>
+      <pubDate>Sun, 24 Jul 2022 15:01:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/posts/others/how-to-build-a-blog-website/</guid>
+      <description>本篇文章将以 Mac 为例，教你如何利用 GitHub 和 Hugo 来免费搭建一个用于写博客的平台。不过本文只是初级教程。 GitHub 和 Hugo 简介 GitHub 简介 GitHub 是一个面向开源及私有软件项目的</description>
+    </item>
+    
+  </channel>
+</rss>
