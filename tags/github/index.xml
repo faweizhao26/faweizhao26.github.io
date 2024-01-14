@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GitHub on Fawei&#39;s Blog</title>
+    <link>https://faweizhao26.github.io/tags/github/</link>
+    <description>Recent content in GitHub on Fawei&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 24 Jul 2022 15:01:29 +0800</lastBuildDate><atom:link href="https://faweizhao26.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>利用 GitHub 和 Hugo 免费搭建博客平台</title>
+      <link>https://faweizhao26.github.io/posts/others/how-to-build-a-blog-website/</link>
+      <pubDate>Sun, 24 Jul 2022 15:01:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/posts/others/how-to-build-a-blog-website/</guid>
+      <description>本篇文章将以 Mac 为例，教你如何利用 GitHub 和 Hugo 来免费搭建一个用于写博客的平台。不过本文只是初级教程。 GitHub 和 Hugo 简介 GitHub 简介 GitHub 是一个面向开源及私有软件项目的</description>
+    </item>
+    
+  </channel>
+</rss>
