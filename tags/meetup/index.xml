@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Meetup on Fawei&#39;s Blog</title>
+    <link>https://faweizhao26.github.io/tags/meetup/</link>
+    <description>Recent content in Meetup on Fawei&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 20 Jun 2022 19:05:29 +0800</lastBuildDate><atom:link href="https://faweizhao26.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>以线下 Meetup 为例，简单聊一聊技术社区的活动组织</title>
+      <link>https://faweizhao26.github.io/posts/community/how-to-organize-a-meetup/</link>
+      <pubDate>Mon, 20 Jun 2022 19:05:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/posts/community/how-to-organize-a-meetup/</guid>
+      <description>本篇文章就以开源社区的线下 Meetup 为例，简单讲一讲如何组织一场社区的活动。</description>
+    </item>
+    
+  </channel>
+</rss>
