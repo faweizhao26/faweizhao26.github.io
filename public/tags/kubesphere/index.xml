@@ -6,7 +6,16 @@
     <description>Recent content in KubeSphere on Fawei&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Jun 2022 19:05:29 +0800</lastBuildDate><atom:link href="https://faweizhao26.github.io/tags/kubesphere/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jun 2024 17:29:29 +0800</lastBuildDate><atom:link href="https://faweizhao26.github.io/tags/kubesphere/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>做开源社区运营三年，我都做了什么？</title>
+      <link>https://faweizhao26.github.io/posts/community/summary-of-3-years-of-open-source-community-operations-experience/</link>
+      <pubDate>Tue, 04 Jun 2024 17:29:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/posts/community/summary-of-3-years-of-open-source-community-operations-experience/</guid>
+      <description>三年的经验总结。</description>
+    </item>
+    
     <item>
       <title>以线下 Meetup 为例，简单聊一聊技术社区的活动组织</title>
       <link>https://faweizhao26.github.io/posts/community/how-to-organize-a-meetup/</link>
