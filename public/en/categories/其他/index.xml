@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>其他 on Fawei&#39;s Blog</title>
+    <link>https://faweizhao26.github.io/en/categories/%E5%85%B6%E4%BB%96/</link>
+    <description>Recent content in 其他 on Fawei&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Jun 2023 15:30:29 +0800</lastBuildDate><atom:link href="https://faweizhao26.github.io/en/categories/%E5%85%B6%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大同游记：“特种兵式”旅游初体验</title>
+      <link>https://faweizhao26.github.io/en/posts/others/the-journey-to-datong/</link>
+      <pubDate>Fri, 30 Jun 2023 15:30:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/en/posts/others/the-journey-to-datong/</guid>
+      <description>&lt;p&gt;端午三天小长假，可不能浪费了，一番讨论后，我和我老婆最终决定去山西大同。大同离北京比较近，人文气息浓厚，有云冈石窟、悬空寺等著名景点。这是我们选择大同的主要原因。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>32 不是 23</title>
+      <link>https://faweizhao26.github.io/en/posts/others/2023-half-summary/</link>
+      <pubDate>Tue, 13 Jun 2023 22:30:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/en/posts/others/2023-half-summary/</guid>
+      <description>&lt;p&gt;时间犹如影子，你永远抓不住它，你快它也快，你慢它也慢。&lt;/p&gt;
+&lt;p&gt;我，今天，32 岁了。&lt;/p&gt;
+&lt;p&gt;我来北京工作已逾七年，我越来越感觉自己活成了一个局外人。没错，“局外人”似乎是用来总结近期的我，非常合适的一个关键词。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>我的 2022 总结</title>
+      <link>https://faweizhao26.github.io/en/posts/others/2022-summary/</link>
+      <pubDate>Sun, 01 Jan 2023 11:27:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/en/posts/others/2022-summary/</guid>
+      <description>&lt;p&gt;每次到了年末，我都会感叹这一年过的好快好快，今年也不例外。但我也一直认为，只要今年比去年有进步，那么这一年就不是那么的失败。这应该是我第三年写年终总结了，之前写的比较简单。今年既然提前写了，就多胡扯一些。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>沟通中的 3 个误区</title>
+      <link>https://faweizhao26.github.io/en/posts/others/3-misunderstandings-in-communication/</link>
+      <pubDate>Wed, 24 Aug 2022 15:25:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/en/posts/others/3-misunderstandings-in-communication/</guid>
+      <description>&lt;p&gt;不管是在工作中，还是在生活中，沟通都是不可或缺的。&lt;/p&gt;
+&lt;p&gt;数字时代，得益于网络和沟通工具，相较于电话时代，我们的沟通效率又上了个台阶。但是，即便如此，还是会遇到很多沟通问题，比如表述不清、词不达意、无法理解等等。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>利用 GitHub 和 Hugo 免费搭建博客平台</title>
+      <link>https://faweizhao26.github.io/en/posts/others/how-to-build-a-blog-website/</link>
+      <pubDate>Sun, 24 Jul 2022 15:01:29 +0800</pubDate>
+      
+      <guid>https://faweizhao26.github.io/en/posts/others/how-to-build-a-blog-website/</guid>
+      <description>&lt;p&gt;本篇文章将以 Mac 为例，教你如何利用 GitHub 和 Hugo 来免费搭建一个用于写博客的平台。不过本文只是初级教程。&lt;/p&gt;
+&lt;h2 id=&#34;github-和-hugo-简介&#34;&gt;GitHub 和 Hugo 简介&lt;/h2&gt;
+&lt;h3 id=&#34;github-简介&#34;&gt;GitHub 简介&lt;/h3&gt;
+&lt;p&gt;GitHub 是一个面向开源及私有软件项目的托管平台，提供了 Git 的分布式版本控制和源代码管理功能。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
