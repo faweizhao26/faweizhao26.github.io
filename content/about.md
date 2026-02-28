@@ -3,14 +3,10 @@ title: " About Me "
 
 ---
 
-Name: Fawei Zhao
-
-Company：QingCloud 
-
-Organization：KubeSphere
+Name: Felix Zhao
 
 GitHub：[https://github.com/faweizhao26](https://github.com/faweizhao26)
 
-Jobs：KubeSphere Community Manager 
+Jobs：Open Source Community Manager 
 
 ![](https://raw.githubusercontent.com/faweizhao26/images/main/fengzhiweiming-wx.jpeg)
