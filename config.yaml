@@ -80,7 +80,6 @@ languages:
           url: /en/posts/ai/
           weight: 50
         - identifier: twitter
-          name: X
           pre: x-twitter
           url: "https://x.com/faweizhao"
           weight: 60
@@ -207,7 +206,6 @@ menu:
       url: /posts/ai/
       weight: 50
     - identifier: twitter
-      name: 推特
       pre: x-twitter
       url: "https://x.com/faweizhao"
       weight: 60
