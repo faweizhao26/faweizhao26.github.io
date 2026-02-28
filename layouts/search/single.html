@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <header class="mt-5">
+    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+  </header>
+  {{ if .Content }}
+    <section class="mt-6 prose dark:prose-invert">
+      {{ .Content }}
+    </section>
+  {{ else }}
+    <section class="mt-6 prose dark:prose-invert">
+      <p>使用右上角的搜索按钮或按 <kbd>/</kbd> 进行搜索。</p>
+    </section>
+  {{ end }}
+  <script>
+    window.addEventListener("DOMContentLoaded", function () {
+      var button = document.getElementById("search-button") || document.getElementById("search-button-mobile");
+      if (button) {
+        button.click();
+      }
+    });
+  </script>
+{{ end }}

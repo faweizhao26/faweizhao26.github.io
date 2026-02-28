@@ -43,8 +43,30 @@ outputs:
 
 params:
   env: production
+  colorScheme: blowfish
+  defaultAppearance: light
+  autoSwitchAppearance: true
+  enableSearch: true
+  enableCodeCopy: true
+  enableStructuredBreadcrumbs: true
+  mainSections:
+    - posts
+  homepage:
+    layout: profile
+    showRecent: true
+    showRecentItems: 12
+    showMoreLink: true
+    showMoreLinkDest: posts
   Author:
     name: Fawei
+    headline: "这里是运营人赵法威的工作总结与读书笔记<br>👏🏼欢迎光临<br>👇联系方式"
+    image: "https://raw.githubusercontent.com/faweizhao26/images/main/XAgiAH.jpeg"
+    links:
+      - github: "https://github.com/faweizhao26"
+      - x-twitter: "https://x.com/faweizhao"
+      - wechat: "https://raw.githubusercontent.com/faweizhao26/images/main/WechatIMG1063.jpeg"
+      - email: "mailto:faweizhao26@gmail.com"
+      - rss: "https://faweizhao26.github.io/index.xml"
   busuanzi:
     enable: true
   defaultTheme: auto
@@ -112,6 +134,10 @@ params:
   
   twikoo:
     version: 1.4.11
+
+  umamiAnalytics:
+    websiteid: "270d3165-e850-4ae7-8e6c-aa6baa41421d"
+    domain: "cloud.umami.is"
   
   # 隐藏主页上的文章列表
   hideHomePosts: true
@@ -121,7 +147,7 @@ menu:
   main:
     - identifier: search
       name: 🔍 搜索
-      url: search
+      url: /search/
       weight: 1
     - identifier: home
       name: 🏠 主页
@@ -129,11 +155,11 @@ menu:
       weight: 2
     - identifier: posts
       name: 📚 博客
-      url: posts
+      url: /posts/
       weight: 3
     - identifier: archives
       name: ⏱ 时间轴
-      url: archives/
+      url: /archives/
       weight: 20
       params:
         languages:
@@ -143,11 +169,11 @@ menu:
             url: /archives/
     - identifier: tags
       name: 🔖 标签
-      url: tags
+      url: /tags/
       weight: 40
     - identifier: about
       name: 🙋🏻‍♂️ 关于
-      url: about
+      url: /about/
       weight: 50
 
 taxonomies:
