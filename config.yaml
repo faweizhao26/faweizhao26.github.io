@@ -1,7 +1,7 @@
 baseURL: https://faweizhao26.github.io/
 languageCode: zh-cn
 title: Fawei's Blog
-theme: PaperMod
+theme: blowfish
 
 enableInlineShortcodes: true
 enableEmoji: true
@@ -43,7 +43,8 @@ outputs:
 
 params:
   env: production
-  author: Fawei
+  Author:
+    name: Fawei
   busuanzi:
     enable: true
   defaultTheme: auto
