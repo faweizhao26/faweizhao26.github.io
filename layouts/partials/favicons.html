@@ -1,0 +1,11 @@
+{{ $logo := resources.Get "logo.svg" }}
+{{ $logoUrl := "favicon.svg" }}
+{{ if $logo }}
+  {{ $logoUrl = $logo.RelPermalink }}
+{{ end }}
+
+<link rel="icon" type="image/svg+xml" href="{{ $logoUrl }}">
+<link rel="icon" sizes="32x32" href="{{ $logoUrl }}">
+<link rel="icon" sizes="16x16" href="{{ $logoUrl }}">
+<link rel="apple-touch-icon" href="{{ $logoUrl }}">
+<link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
