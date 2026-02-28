@@ -33,11 +33,6 @@ languages:
   en:
     languageName: "English"
     weight: 2
-
-languages:
-  en:
-    languageName: "English"
-    weight: 1
     # 移除了 profileMode 配置（应该放在全局 params 中）
 
 outputs:
