@@ -67,17 +67,17 @@ languages:
           name: Community Ops
           url: /en/posts/community/
           weight: 20
-        - identifier: read
-          name: Reading
-          url: /en/posts/read/
-          weight: 30
-        - identifier: life
-          name: Life
-          url: /en/posts/others/
-          weight: 40
         - identifier: ai
           name: AI
           url: /en/posts/ai/
+          weight: 30
+        - identifier: read
+          name: Reading
+          url: /en/posts/read/
+          weight: 40
+        - identifier: life
+          name: Essays
+          url: /en/posts/others/
           weight: 50
         - identifier: twitter
           pre: x-twitter
@@ -193,17 +193,17 @@ menu:
       name: 社区运营
       url: /posts/community/
       weight: 20
-    - identifier: read
-      name: 读书
-      url: /posts/read/
-      weight: 30
-    - identifier: life
-      name: 生活
-      url: /posts/others/
-      weight: 40
     - identifier: ai
       name: AI
       url: /posts/ai/
+      weight: 30
+    - identifier: read
+      name: 读书
+      url: /posts/read/
+      weight: 40
+    - identifier: life
+      name: 随笔
+      url: /posts/others/
       weight: 50
     - identifier: twitter
       pre: x-twitter
