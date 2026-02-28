@@ -37,6 +37,35 @@ languages:
     weight: 2
     params:
       displayName: "EN"
+      Author:
+        headline: "Operations notes and reading reflections<br>👏 Welcome<br>👇 Get in touch"
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /en/about/
+          weight: 10
+        - identifier: community
+          name: Community Ops
+          url: /en/posts/community/
+          weight: 20
+        - identifier: read
+          name: Reading
+          url: /en/posts/read/
+          weight: 30
+        - identifier: life
+          name: Life
+          url: /en/posts/others/
+          weight: 40
+        - identifier: ai
+          name: AI
+          url: /en/posts/ai/
+          weight: 50
+        - identifier: twitter
+          name: X
+          pre: x-twitter
+          url: "https://x.com/faweizhao"
+          weight: 60
     # 移除了 profileMode 配置（应该放在全局 params 中）
 
 outputs:
