@@ -1,14 +1,22 @@
 <svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#22c3b0"/>
-      <stop offset="1" stop-color="#1a2397"/>
+      <stop offset="0" stop-color="#a4601d"/>
+      <stop offset="1" stop-color="#5e7915"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="630" rx="32" fill="url(#bg)"/>
-  <circle cx="272" cy="151" r="213" fill="rgba(255,255,255,0.10)"/>
-  <circle cx="980" cy="430" r="241" fill="rgba(255,255,255,0.06)"/>
-  <circle cx="795" cy="145" r="127" fill="#e2364a" fill-opacity="0.18"/>
+  <circle cx="180" cy="210" r="241" fill="rgba(255,255,255,0.10)"/>
+  <circle cx="903" cy="495" r="334" fill="rgba(255,255,255,0.06)"/>
+  <circle cx="520" cy="500" r="120" fill="#5199e0" fill-opacity="0.12"/>
   <path d="M80 520 C 260 460, 380 540, 560 500 S 900 520, 1120 470" stroke="rgba(255,255,255,0.18)" stroke-width="6" fill="none"/>
   <path d="M120 420 C 280 360, 420 440, 620 400 S 920 420, 1080 360" stroke="rgba(255,255,255,0.12)" stroke-width="4" fill="none"/>
+
+  <g transform="translate(820 140)">
+    <rect x="0" y="0" width="220" height="300" rx="24" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.75)" stroke-width="6"/>
+    <rect x="24" y="36" width="72" height="220" rx="12" fill="rgba(255,255,255,0.75)" opacity="0.25"/>
+    <rect x="120" y="36" width="72" height="220" rx="12" fill="rgba(255,255,255,0.75)" opacity="0.25"/>
+    <line x1="110" y1="36" x2="110" y2="260" stroke="rgba(255,255,255,0.75)" stroke-width="4" opacity="0.6"/>
+  </g>
+
 </svg>
