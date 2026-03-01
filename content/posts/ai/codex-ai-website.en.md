@@ -63,7 +63,7 @@ It can help you:
 
 And the whole process is basically done through conversation.
 
-Website: https://openai.com/index/introducing-codex/
+Website: [https://openai.com/index/introducing-codex/](https://openai.com/index/introducing-codex/)
 
 ---
 
@@ -139,7 +139,7 @@ I bought the domain on Alibaba Cloud. It costs only a few dozen yuan per year.
 
 At that point, the site was fully live.
 
-Live site: zhaoshuba.top
+Live site: [https://zhaoshuba.top](https://zhaoshuba.top)
 
 ![Zhaoshuba English interface](/images/ai/zhaoshuba-en.png)
 

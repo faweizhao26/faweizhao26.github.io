@@ -63,7 +63,7 @@ cover:
 
 而且整个过程，基本都靠对话完成。
 
-官网：https://openai.com/index/introducing-codex/
+官网：[https://openai.com/index/introducing-codex/](https://openai.com/index/introducing-codex/)
 
 ---
 
@@ -139,7 +139,7 @@ Codex 很快就给我生成了一个本地网页，我直接在浏览器里预�
 
 至此，网站算是完整上线了。
 
-成品地址：zhaoshuba.top
+成品地址：[https://zhaoshuba.top](https://zhaoshuba.top)
 
 ![找书吧中文界面](/images/ai/zhaoshuba-zh.png)
 
