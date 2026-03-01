@@ -112,6 +112,8 @@ params:
     showRecentItems: 12
     showMoreLink: true
     showMoreLinkDest: posts
+  list:
+    groupByYear: false
   busuanzi:
     enable: true
   defaultTheme: auto
