@@ -1,7 +1,6 @@
 ---
-title: "🏖 其他"
+title: "✍️ 随笔"
 hidemeta: true
 ---
-
 
 
