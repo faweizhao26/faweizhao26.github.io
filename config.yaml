@@ -118,6 +118,7 @@ params:
     showSummary: true
   article:
     showViews: true
+    showComments: true
   busuanzi:
     enable: true
   defaultTheme: auto
