@@ -34,7 +34,7 @@ languages:
       displayName: "简体中文"
       Author:
         name: Fawei
-        headline: "这里是运营人赵法威的工作总结与读书笔记<br>👏🏼欢迎光临<br>👇联系方式"
+        headline: "这里是运营人 Fawei 的工作总结与读书笔记<br>👏🏼欢迎光临<br>👇联系方式"
         image: "https://raw.githubusercontent.com/faweizhao26/images/main/XAgiAH.jpeg"
         links:
           - github: "https://github.com/faweizhao26"
@@ -142,7 +142,7 @@ params:
   profileMode:
       enabled: true
       title: Hi
-      subtitle: "这里是运营人赵法威的工作总结与读书笔记<br>👏🏼欢迎光临<br>👇联系方式"
+      subtitle: "这里是运营人 Fawei 的工作总结与读书笔记<br>👏🏼欢迎光临<br>👇联系方式"
       imageUrl: "https://raw.githubusercontent.com/faweizhao26/images/main/XAgiAH.jpeg"
       imageTitle: 
       imageWidth: 150
