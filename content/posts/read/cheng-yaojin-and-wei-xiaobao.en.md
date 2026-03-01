@@ -34,11 +34,9 @@ They are both repeatedly lucky, yet they end up on completely different life tra
 
 When people mention Cheng Yaojin, they often recall:
 
-"a Cheng Yaojin suddenly appears halfway"
-
-"chaos king"
-
-"three axe strokes"
+- "a Cheng Yaojin suddenly appears halfway"
+- "chaos king"
+- "three axe strokes"
 
 These impressions mostly come from literary works such as *Romance of Sui and Tang* and *Shuo Tang*, plus film and TV adaptations. The historical Cheng Yaojin was less exaggerated, but the literary image is deeply rooted.
 
@@ -46,25 +44,19 @@ In the novel, Cheng Yaojin meets Qin Qiong in youth, then they part due to circu
 
 After that, his life repeatedly turns danger into survival:
 
-He learns axe techniques in a dream but remembers only three and a half moves.
-
-He secures Wagang with three axe strokes and is pushed into leadership.
-
-He marries into a notable family and stabilizes his position.
-
-He follows Li Shimin and eventually gains fame and rank.
+- He learns axe techniques in a dream but remembers only three and a half moves.
+- He secures Wagang with three axe strokes and is pushed into leadership.
+- He marries into a notable family and stabilizes his position.
+- He follows Li Shimin and eventually gains fame and rank.
 
 Cheng Yaojin is not from a military aristocratic line, nor is he known for disciplined hard training, yet at key moments he is always "just enough" to pass.
 
 *Romance of Sui and Tang* shapes him as:
 
-simple
-
-reckless
-
-a bit blunt
-
-kind-hearted
+- simple
+- reckless
+- a bit blunt
+- kind-hearted
 
 This matches the folk idea that "the simple are blessed by fortune."
 
@@ -76,39 +68,29 @@ If Cheng Yaojin is a "straightforward fortunate general," then Wei Xiaobao is a 
 
 He comes from a very low background, born in a brothel and raised in street society, growing up among gambling houses, tea houses, and Jianghu's lower layers. That environment shaped him into someone who is:
 
-quick-witted and flexible
-
-verbally agile
-
-good at reading people
-
-strong at survival
+- quick-witted and flexible
+- verbally agile
+- good at reading people
+- strong at survival
 
 His luck is not purely heaven-sent. It is the combined result of luck, social intelligence, and tactical maneuvering.
 
 His key life nodes are almost all precise timing wins:
 
-meeting Emperor Kangxi
-
-helping capture Oboi
-
-joining Tiandihui and following Chen Jinnan
-
-maneuvering among court, Jianghu, and anti-Qing forces
-
-surviving even after multiple identities are exposed
+- meeting Emperor Kangxi
+- helping capture Oboi
+- joining Tiandihui and following Chen Jinnan
+- maneuvering among court, Jianghu, and anti-Qing forces
+- surviving even after multiple identities are exposed
 
 Wei Xiaobao looks "naturally lucky," but he is actually highly skilled at managing outcomes.
 
 He knows:
 
-when to play dumb
-
-when to signal loyalty
-
-when to yield
-
-when to take a stance
+- when to play dumb
+- when to signal loyalty
+- when to yield
+- when to take a stance
 
 His luck is continuously amplified by his own actions.
 
@@ -120,53 +102,42 @@ On the surface, Cheng Yaojin and Wei Xiaobao are both luck-driven characters. In
 
 ### 1) Cheng Yaojin: lifted by fate
 
-not strong in long-term planning
-
-limited ambition
-
-going with the current
-
-constant benefactors
+- not strong in long-term planning
+- limited ambition
+- going with the current
+- constant benefactors
 
 His success resembles being "chosen by the times."
 
 ### 2) Wei Xiaobao: creating his own luck
 
-high adaptability
-
-good at building relationships
-
-strong psychological insight
-
-high risk awareness
+- high adaptability
+- good at building relationships
+- strong psychological insight
+- high risk awareness
 
 His success is a result of precise luck management.
 
 Put simply:
 
-Cheng Yaojin relies on fate.
-
-Wei Xiaobao relies on his brain.
+- Cheng Yaojin relies on fate.
+- Wei Xiaobao relies on his brain.
 
 ## 4. Mixed hero and anti-hero
 
 From a literary perspective, they also represent different types.
 
-Cheng Yaojin: a mixed-hero figure
-
-Wei Xiaobao: an anti-hero figure
+- Cheng Yaojin: a mixed-hero figure
+- Wei Xiaobao: an anti-hero figure
 
 Cheng still carries traits of traditional heroism: loyalty, courage, and blunt sincerity.
 
 Wei Xiaobao dismantles heroism:
 
-no obsession with martial virtue
-
-no fixation on formal honor
-
-no pursuit of eternal reputation
-
-priority on self-preservation
+- no obsession with martial virtue
+- no fixation on formal honor
+- no pursuit of eternal reputation
+- priority on self-preservation
 
 Yet both are highly relatable because they realistically present ordinary survival intelligence.
 
@@ -178,9 +149,8 @@ Many people reduce their success to "good fate."
 
 But in fact:
 
-Cheng Yaojin knows how to follow the right people.
-
-Wei Xiaobao knows how to stay alive.
+- Cheng Yaojin knows how to follow the right people.
+- Wei Xiaobao knows how to stay alive.
 
 That itself is capability.
 
@@ -198,16 +168,15 @@ Wei Xiaobao's story tells us:
 
 Understanding rules and adapting flexibly is how you survive to the end.
 
-One relies on heaven, one on mind.
-
-One follows fate, one manages outcomes.
-
-One is pushed forward, one actively finds his road.
+- One relies on heaven, one on mind.
+- One follows fate, one manages outcomes.
+- One is pushed forward, one actively finds his road.
 
 Both are fortunate generals, but they represent two completely different success logics.
 
 Perhaps this is exactly why these two figures endure:
 
-They show us that life is not limited to the "hero mode."
+They show us that:
 
-Ordinary people can still win in their own way.
+- life is not limited to the "hero mode."
+- ordinary people can still win in their own way.
