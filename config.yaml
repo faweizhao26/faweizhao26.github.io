@@ -116,6 +116,8 @@ params:
     groupByYear: false
     cardView: true
     showSummary: true
+  article:
+    showViews: true
   busuanzi:
     enable: true
   defaultTheme: auto
