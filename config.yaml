@@ -83,6 +83,10 @@ languages:
           pre: x-twitter
           url: "https://x.com/faweizhao"
           weight: 60
+        - identifier: zhaoshuba
+          name: Zhaoshuba
+          url: "https://zhaoshuba.top"
+          weight: 70
     # 移除了 profileMode 配置（应该放在全局 params 中）
 
 outputs:
@@ -210,6 +214,10 @@ menu:
       pre: x-twitter
       url: "https://x.com/faweizhao"
       weight: 60
+    - identifier: zhaoshuba
+      name: 找书吧
+      url: "https://zhaoshuba.top"
+      weight: 70
 
 taxonomies:
   category: categories
