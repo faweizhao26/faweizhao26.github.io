@@ -1,5 +1,7 @@
 ---
+
 title: "The Pain of KubeSphere Going Closed"
+featureimage: "covers/the-end-of-kubesphere.svg"
 date: 2025-08-01T16:26:26+08:00
 categories:
 - Community Ops

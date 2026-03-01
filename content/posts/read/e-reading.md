@@ -1,5 +1,7 @@
 ---
+
 title: "聊一聊电子阅读"
+featureimage: "covers/e-reading.svg"
 date: 2024-05-29T14:30:55+08:00
 categories: 
 - 读书笔记

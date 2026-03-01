@@ -1,5 +1,7 @@
 ---
+
 title: "我的 2023 读书记录"
+featureimage: "covers/2023-book-list.svg"
 date: 2024-01-14T23:33:52+08:00
 categories: 
 - 读书笔记

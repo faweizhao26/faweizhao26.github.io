@@ -1,5 +1,7 @@
 ---
+
 title: "What Skills a Community Operator Needs"
+featureimage: "covers/what-abilities-you-need-to-have-if-you-are-community-manager.svg"
 date: 2022-07-11T18:55:29+08:00
 categories:
 - Community Ops

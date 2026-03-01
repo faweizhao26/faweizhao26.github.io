@@ -1,5 +1,7 @@
 ---
+
 title: "我设想的读书方法"
+featureimage: "covers/how-to-read-one-book.svg"
 date: 2022-06-18T18:23:31+08:00
 categories: 
 - 读书笔记

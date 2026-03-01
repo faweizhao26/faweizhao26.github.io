@@ -1,5 +1,7 @@
 ---
+
 title: "我的 2022 总结"
+featureimage: "covers/2022-summary.svg"
 date: 2023-01-01T11:27:29+08:00
 categories: 
 - 其他

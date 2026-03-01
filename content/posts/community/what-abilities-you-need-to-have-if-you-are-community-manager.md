@@ -1,5 +1,7 @@
 ---
+
 title: "做社区运营需要具备哪些能力"
+featureimage: "covers/what-abilities-you-need-to-have-if-you-are-community-manager.svg"
 date: 2022-07-11T18:55:29+08:00
 categories: 
 - 运营

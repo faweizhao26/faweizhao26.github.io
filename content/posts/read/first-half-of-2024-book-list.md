@@ -1,5 +1,7 @@
 ---
+
 title: "2024 上半年读书记录"
+featureimage: "covers/first-half-of-2024-book-list.svg"
 date: 2024-07-14T17:33:52+08:00
 categories: 
 - 读书笔记

@@ -1,5 +1,7 @@
 ---
+
 title: "【读书记】《午夜凶铃》的原著居然是科幻小说？"
+featureimage: "covers/reading-notes-ring.svg"
 date: 2023-06-06T22:50:52+08:00
 categories: 
 - 读书笔记

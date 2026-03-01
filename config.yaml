@@ -114,6 +114,8 @@ params:
     showMoreLinkDest: posts
   list:
     groupByYear: false
+    cardView: true
+    showSummary: true
   busuanzi:
     enable: true
   defaultTheme: auto

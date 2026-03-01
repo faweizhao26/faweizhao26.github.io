@@ -1,5 +1,7 @@
 ---
+
 title: "Reading Notes: The Original 'Ring' Is Sci-Fi?"
+featureimage: "covers/reading-notes-ring.svg"
 date: 2023-06-06T22:50:52+08:00
 categories:
 - Reading Notes

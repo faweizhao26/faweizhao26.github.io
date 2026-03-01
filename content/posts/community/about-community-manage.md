@@ -1,5 +1,7 @@
 ---
+
 title: "我做社区运营这几年"
+featureimage: "covers/about-community-manage.svg"
 date: 2022-05-24T22:29:29+08:00
 categories: 
 - 运营

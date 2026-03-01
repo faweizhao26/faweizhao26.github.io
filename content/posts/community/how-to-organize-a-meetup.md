@@ -1,5 +1,7 @@
 ---
+
 title: "以线下 Meetup 为例，简单聊一聊技术社区的活动组织"
+featureimage: "covers/how-to-organize-a-meetup.svg"
 date: 2022-06-20T19:05:29+08:00
 categories: 
 - 运营

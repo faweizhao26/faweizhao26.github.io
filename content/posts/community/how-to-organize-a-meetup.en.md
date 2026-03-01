@@ -1,5 +1,7 @@
 ---
+
 title: "How to Organize a Community Event: A Meetup Example"
+featureimage: "covers/how-to-organize-a-meetup.svg"
 date: 2022-06-20T19:05:29+08:00
 categories:
 - Community Ops

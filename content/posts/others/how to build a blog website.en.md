@@ -1,5 +1,7 @@
 ---
+
 title: "Build a Free Blog with GitHub and Hugo"
+featureimage: "covers/how-to-build-a-blog-website.svg"
 date: 2022-07-24T15:01:29+08:00
 categories:
 - Life

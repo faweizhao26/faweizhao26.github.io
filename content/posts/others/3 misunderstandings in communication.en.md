@@ -1,5 +1,7 @@
 ---
+
 title: "Three Misconceptions in Communication"
+featureimage: "covers/3-misunderstandings-in-communication.svg"
 date: 2022-08-24T15:25:29+08:00
 categories:
 - Life

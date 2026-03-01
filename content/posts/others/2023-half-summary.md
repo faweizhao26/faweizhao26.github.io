@@ -1,5 +1,7 @@
 ---
+
 title: "32 不是 23"
+featureimage: "covers/2023-half-summary.svg"
 date: 2023-06-13T22:30:29+08:00
 categories: 
 - 其他

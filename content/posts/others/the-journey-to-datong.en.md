@@ -1,5 +1,7 @@
 ---
+
 title: "Datong Trip: My First 'Special Forces' Tour"
+featureimage: "covers/the-journey-to-datong.svg"
 date: 2023-06-30T15:30:29+08:00
 categories:
 - Life

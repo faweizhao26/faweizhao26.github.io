@@ -1,5 +1,7 @@
 ---
+
 title: "Books I Read in 2022"
+featureimage: "covers/2022-book-list.svg"
 date: 2022-12-30T13:14:52+08:00
 categories:
 - Reading Notes

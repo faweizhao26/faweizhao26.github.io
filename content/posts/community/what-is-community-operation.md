@@ -1,5 +1,7 @@
 ---
+
 title: "社区基础普及 2 —— 社区运营是什么"
+featureimage: "covers/what-is-community-operation.svg"
 date: 2022-08-18T13:25:29+08:00
 categories: 
 - 运营

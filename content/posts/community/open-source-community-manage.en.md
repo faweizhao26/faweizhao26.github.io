@@ -1,5 +1,7 @@
 ---
+
 title: "A Year and a Half in Open-Source Community Operations"
+featureimage: "covers/open-source-community-manage.svg"
 date: 2022-06-05T08:29:29+08:00
 categories:
 - Community Ops

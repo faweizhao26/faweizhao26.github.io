@@ -1,5 +1,7 @@
 ---
+
 title: "Thoughts on E-Reading"
+featureimage: "covers/e-reading.svg"
 date: 2024-05-29T14:30:55+08:00
 categories:
 - Reading Notes

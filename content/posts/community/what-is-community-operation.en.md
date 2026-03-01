@@ -1,5 +1,7 @@
 ---
+
 title: "Community Basics 2 - What Is Community Operations"
+featureimage: "covers/what-is-community-operation.svg"
 date: 2022-08-18T13:25:29+08:00
 categories:
 - Community Ops

@@ -1,5 +1,7 @@
 ---
+
 title: "Three Years of Open-Source Community Operations: What I Did"
+featureimage: "covers/summary-of-3-years-of-open-source-community-operations-experience.svg"
 date: 2024-06-04T17:29:29+08:00
 categories:
 - Community Ops

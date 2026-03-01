@@ -1,5 +1,7 @@
 ---
+
 title: "商业公司主导的开源项目发展隐忧探讨"
+featureimage: "covers/three-problems-of-open-source-project.svg"
 date: 2022-10-18T22:29:29+08:00
 categories: 
 - 运营

@@ -1,5 +1,7 @@
 ---
+
 title: "利用 GitHub 和 Hugo 免费搭建博客平台"
+featureimage: "covers/how-to-build-a-blog-website.svg"
 date: 2022-07-24T15:01:29+08:00
 categories: 
 - 其他

@@ -1,5 +1,7 @@
 ---
+
 title: "2022 年我读了这些书"
+featureimage: "covers/2022-book-list.svg"
 date: 2022-12-30T13:14:52+08:00
 categories: 
 - 读书笔记

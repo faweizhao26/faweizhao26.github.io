@@ -1,5 +1,7 @@
 ---
+
 title: "How a Non-Technical Person Built a Website with Codex + AI in Two Hours"
+featureimage: "covers/codex-ai-website.svg"
 date: 2026-02-28T23:00:00+08:00
 categories:
 - AI

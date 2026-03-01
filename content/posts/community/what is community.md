@@ -1,5 +1,7 @@
 ---
+
 title: "社区基础普及 1 —— 什么是社区"
+featureimage: "covers/what-is-community.svg"
 date: 2022-08-16T16:55:29+08:00
 categories: 
 - 运营

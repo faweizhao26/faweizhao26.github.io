@@ -1,5 +1,7 @@
 ---
+
 title: "大同游记：“特种兵式”旅游初体验"
+featureimage: "covers/the-journey-to-datong.svg"
 date: 2023-06-30T15:30:29+08:00
 categories: 
 - 其他

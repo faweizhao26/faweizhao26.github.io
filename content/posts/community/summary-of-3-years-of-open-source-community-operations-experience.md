@@ -1,5 +1,7 @@
 ---
+
 title: "做开源社区运营三年，我都做了什么？"
+featureimage: "covers/summary-of-3-years-of-open-source-community-operations-experience.svg"
 date: 2024-06-04T17:29:29+08:00
 categories: 
 - 运营

@@ -1,5 +1,7 @@
 ---
+
 title: "Community Basics 1 - What Is a Community"
+featureimage: "covers/what-is-community.svg"
 date: 2022-08-16T16:55:29+08:00
 categories:
 - Community Ops

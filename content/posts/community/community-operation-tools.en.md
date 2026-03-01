@@ -1,5 +1,7 @@
 ---
+
 title: "Tools I Use Most in Community Operations"
+featureimage: "covers/community-operation-tools.svg"
 date: 2023-04-07T20:26:26+08:00
 categories:
 - Community Ops

@@ -1,5 +1,7 @@
 ---
+
 title: "Revisiting 'The Investiture of the Gods' and the Film 'Creation of the Gods'"
+featureimage: "covers/reading-fengshenyanyi.svg"
 date: 2023-08-20T21:30:55+08:00
 categories:
 - Reading Notes

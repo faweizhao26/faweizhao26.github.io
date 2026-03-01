@@ -1,5 +1,7 @@
 ---
+
 title: "一个非技术人员，用 Codex + AI 两小时做出网站的真实经历"
+featureimage: "covers/codex-ai-website.svg"
 date: 2026-02-28T23:00:00+08:00
 categories:
 - AI

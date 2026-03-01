@@ -1,5 +1,7 @@
 ---
+
 title: "再读《封神演义》，浅谈电影《封神》"
+featureimage: "covers/reading-fengshenyanyi.svg"
 date: 2023-08-20T21:30:55+08:00
 categories: 
 - 读书笔记

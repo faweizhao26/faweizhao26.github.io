@@ -1,5 +1,7 @@
 ---
+
 title: "Reading Log for the First Half of 2024"
+featureimage: "covers/first-half-of-2024-book-list.svg"
 date: 2024-07-14T17:33:52+08:00
 categories:
 - Reading Notes

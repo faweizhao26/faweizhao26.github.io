@@ -1,5 +1,7 @@
 ---
+
 title: "Concerns About Company-Led Open-Source Projects"
+featureimage: "covers/three-problems-of-open-source-project.svg"
 date: 2022-10-18T22:29:29+08:00
 categories:
 - Community Ops

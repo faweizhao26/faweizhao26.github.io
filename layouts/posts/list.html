@@ -95,7 +95,7 @@
       {{ else }}
         {{ if $cardViewScreenWidth }}
           <div class="relative w-screen max-w-[1600px] px-[30px] start-[calc(max(-50vw,-800px)+50%)]">
-            <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
+            <section class="space-y-6 w-full">
               {{ if not $orderByWeight }}
                 {{ range (.Paginate ($pages.GroupByDate "2006")).PageGroups }}
                   {{ range .Pages }}
@@ -110,7 +110,7 @@
             </section>
           </div>
         {{ else }}
-          <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+          <section class="space-y-6 w-full">
             {{ if not $orderByWeight }}
               {{ range (.Paginate ($pages.GroupByDate "2006")).PageGroups }}
                 {{ range .Pages }}

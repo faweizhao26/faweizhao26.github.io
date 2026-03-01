@@ -1,5 +1,7 @@
 ---
+
 title: "My 2023 Reading Log"
+featureimage: "covers/2023-book-list.svg"
 date: 2024-01-14T23:33:52+08:00
 categories:
 - Reading Notes

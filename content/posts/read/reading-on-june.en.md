@@ -1,5 +1,7 @@
 ---
+
 title: "June Reading Notes"
+featureimage: "covers/reading-on-june.svg"
 date: 2023-07-02T20:30:55+08:00
 categories:
 - Reading Notes

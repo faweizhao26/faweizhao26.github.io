@@ -1,5 +1,7 @@
 ---
+
 title: "My Years in Community Operations"
+featureimage: "covers/about-community-manage.svg"
 date: 2022-05-24T22:29:29+08:00
 categories:
 - Community Ops

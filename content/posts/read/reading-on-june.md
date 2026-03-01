@@ -1,5 +1,7 @@
 ---
+
 title: "六月读书记"
+featureimage: "covers/reading-on-june.svg"
 date: 2023-07-02T20:30:55+08:00
 categories: 
 - 读书笔记
