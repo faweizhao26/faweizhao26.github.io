@@ -13,9 +13,11 @@
     {{ end }}
   {{ end }}
 
-  <header>
+  <header class="flex flex-col items-center text-center">
     {{ if .Params.showBreadcrumbs | default (site.Params.list.showBreadcrumbs | default false) }}
-      {{ partial "breadcrumbs.html" . }}
+      <div class="flex w-full justify-center">
+        {{ partial "breadcrumbs.html" . }}
+      </div>
     {{ end }}
     <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
     <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
@@ -33,7 +35,7 @@
         </div>
       </div>
     {{ end }}
-    <div class="min-w-0 min-h-0 max-w-prose w-full">
+    <div class="min-w-0 min-h-0 max-w-prose w-full {{ if not $showToc }}mx-auto text-center{{ end }}">
       {{ .Content }}
     </div>
   </section>
