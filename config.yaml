@@ -119,6 +119,7 @@ params:
   article:
     showViews: true
     showComments: true
+    showTableOfContents: true
   busuanzi:
     enable: true
   defaultTheme: auto
@@ -134,9 +135,9 @@ params:
   ShowWordCounts: true
   VisitCount: true
   ShowLastMod: true
-  ShowToc: true
-  TocOpen: true
   comments: true
+  smartTOC: true
+  smartTOCHideUnfocusedChildren: true
   
   # 主页布局配置
   profileMode:
