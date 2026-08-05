@@ -1,5 +1,5 @@
+{{ $isZh := eq .Site.Language.Lang "zh-cn" }}
 {{ if .Site.Params.busuanzi.enable }}
-  {{ $isZh := eq .Site.Language.Lang "zh-cn" }}
   <div class="mt-3 text-xs text-neutral-500 dark:text-neutral-400 flex flex-wrap gap-x-4 gap-y-1">
     <span id="busuanzi_container_site_uv">
       {{ if $isZh }}访客{{ else }}Visitors{{ end }}：
@@ -12,3 +12,6 @@
   </div>
   <script async src="https://cn.vercount.one/js"></script>
 {{ end }}
+<div class="mt-3 text-xs text-neutral-500 dark:text-neutral-400">
+  <a href="{{ "privacy" | relLangURL }}">{{ if $isZh }}隐私政策{{ else }}Privacy Policy{{ end }}</a>
+</div>
