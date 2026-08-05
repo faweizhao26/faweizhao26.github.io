@@ -136,6 +136,9 @@ params:
   VisitCount: true
   ShowLastMod: true
   comments: true
+  # 谷歌广告 (Google AdSense)
+  advertisement:
+    adsense: "ca-pub-6049122905069243"
   smartTOC: true
   smartTOCHideUnfocusedChildren: true
   
