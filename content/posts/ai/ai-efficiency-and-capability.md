@@ -1,5 +1,6 @@
 ---
 title: "我用 AI 工作的两条线：提效，和拓展能力边界"
+featureimage: "covers/ai-efficiency-and-capability.svg"
 date: 2026-09-28T08:40:00+08:00
 categories:
   - AI
@@ -156,7 +157,3 @@ AI 降低了很多工作的门槛，让从没干过的人，也敢想敢干了�
 工具会更新，价格也会变化，以上只是我当前的经验。AI 不是万能的，但在适合的场景里，它确实能成为我们的放大器。
 
 希望你也能找到自己的两条线：哪些事交给 AI 提效，哪些事借 AI 拓展边界。
-
----
-
-原文发表于微信公众号「风之未名」：[阅读原文](https://mp.weixin.qq.com/s/8cv9fZGvXxaFl1b4Qk4tMQ)。

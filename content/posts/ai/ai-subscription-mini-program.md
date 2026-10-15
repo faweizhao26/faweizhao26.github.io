@@ -1,5 +1,6 @@
 ---
 title: "我用 AI 做了一个小程序"
+featureimage: "covers/ai-subscription-mini-program.svg"
 date: 2026-09-26T19:12:00+08:00
 categories:
   - AI
@@ -48,7 +49,3 @@ showbreadcrumbs: true
 哪里不顺手，直接告诉我就行。我还在改。我也挺想知道，除了我自己，别人到底会不会需要这么个小工具。
 
 续简
-
----
-
-原文发表于微信公众号「风之未名」：[阅读原文](https://mp.weixin.qq.com/s/lWgTguhERmSCeJduTeqPGA)。
